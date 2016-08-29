@@ -2,4 +2,4 @@
 RMS 2 Qowisio Documentation
 
 ---
-Documentation already written; seeking ofr a way to generate content via jekyll templates.
+Documentation already written; seeking for a way to generate content via jekyll templates.
